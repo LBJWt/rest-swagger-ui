@@ -1,4 +1,4 @@
-package com.gootrip.util;
+package com.mkyong.common.utils;
 
 /*
  * Static String formatting and query routines.

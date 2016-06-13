@@ -1,7 +1,7 @@
 /**
  * Éú³ÉËõÂÔÍ¼Àà
  */
-package com.gootrip.util;
+package com.mkyong.common.utils;
 
 /**
  * @author advance

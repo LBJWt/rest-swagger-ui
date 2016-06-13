@@ -1,4 +1,4 @@
-package com.bjdv.catv.util;
+package com.mkyong.common.utils;
 
 public class Escape {
 	private final static String[] hex = { "00", "01", "02", "03", "04", "05",

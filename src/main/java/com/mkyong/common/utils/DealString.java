@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.gootrip.util;
+package com.mkyong.common.utils;
 
 import java.text.NumberFormat;
 import java.util.Date;

@@ -1,7 +1,7 @@
 /**
  * 上传文件类
  */
-package com.gootrip.util;
+package com.mkyong.common.utils;
 
 /**
  * @author advance

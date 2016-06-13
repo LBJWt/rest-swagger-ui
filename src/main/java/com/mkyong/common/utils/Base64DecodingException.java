@@ -1,4 +1,4 @@
-package com.gootrip.util;
+package com.mkyong.common.utils;
 
 /*
  * Base64 decoding exception.

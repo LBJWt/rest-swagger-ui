@@ -1,4 +1,4 @@
-package com.gootrip.util;
+package com.mkyong.common.utils;
 
 /**
  * <p>Title: 时间和日期的工具类</p>

@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.gootrip.util;
+package com.mkyong.common.utils;
 
 import java.net.URL;
 import java.util.Iterator;

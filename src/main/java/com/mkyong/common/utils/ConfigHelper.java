@@ -1,10 +1,7 @@
 /** 
  * ¶ÁÈ¡ÅäÖÃÎÄ¼ş
  */
-package com.gootrip.util;
-
-import java.io.File;
-import java.net.URL;
+package com.mkyong.common.utils;
 
 import org.apache.commons.configuration.Configuration;
 import org.apache.commons.configuration.ConfigurationFactory;

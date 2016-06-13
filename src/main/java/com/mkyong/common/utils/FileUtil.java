@@ -1,4 +1,4 @@
-package com.gootrip.util;
+package com.mkyong.common.utils;
 
 import java.io.BufferedReader;
 import java.io.File;
